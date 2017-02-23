@@ -1,2 +1,2 @@
 # dotfiles
-my .vimrc file
+my personal config files
